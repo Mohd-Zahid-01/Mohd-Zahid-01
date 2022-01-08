@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **zahidmohd.dev@gmail.com**
 
-- ⚡ Fun fact **Active Participant In MMO Games and Gaming Communities,Love Chai,Brainstorming and debating ideas**
+- ⚡ Fun fact **Good at Brainstorming Ideas and Features,Love Working on ideas with Chai,Moderately Well Spoken English(P.S not a poet)**
 
 
 
