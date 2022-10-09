@@ -3,7 +3,6 @@
 
 <h3 align="center">A FullStack Developer In Progress</h3>
 
-- 🔭 I’m currently working on **Be My Chef**
 
 - 🌱 I’m currently learning **FullStack Web Development**
 
