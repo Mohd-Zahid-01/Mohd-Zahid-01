@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **zahidmohd.dev@gmail.com**
 
-- ⚡ Fun fact **Good at Brainstorming Ideas and Features,Love Working on ideas with Chai,Moderately Well Spoken English(P.S not a poet)**
+- ⚡ Fun fact **Good at Brainstorming Ideas and Features,Love Working on ideas with Chai**
 
 
 
