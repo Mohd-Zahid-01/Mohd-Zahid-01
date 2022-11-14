@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Backend Web Development**
 
-- 💬 Ask me about **Javascript,Css Advanced,React**
+- 💬 Ask me about **Javascript,Css ,Html,Python**
 
 - 📫 How to reach me **zahidmohd.dev@gmail.com**
 
