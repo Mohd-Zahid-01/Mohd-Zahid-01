@@ -6,8 +6,9 @@
 
 - 🌱 I’m currently adapting into Knowledge and Experience base of **Application Performance Monitoring as a Pathway to Devops**
 
-- 👯 I’m looking to Collaborate to gain insights on **1)Technologies as Means of Metric Monitoring,
-                                                       2)Application end-to-end Monitoring**
+- 👯 I’m looking to Collaborate to gain insights on 
+ **-Technologies as Means of Metric Monitoring,
+-Application end-to-end Monitoring**
 
 - 🤝 I’m looking for help with **Professionalising in Devops**
 
