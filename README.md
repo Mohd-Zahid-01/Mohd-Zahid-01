@@ -1,16 +1,19 @@
 ### Hi there 👋 "Its a mee"  MOHD ZAHID
 
 
-<h3 align="center">A FullStack Developer In Progress</h3>
+<h3 align="center">Confused Nerd in Tech</h3>
 
 
-- 🌱 I’m currently learning **FullStack Web Development**
+- 🌱 I’m currently adapting into Knowledge and Experience base of **Application Performance Monitoring as a Pathway to Devops**
 
-- 👯 I’m looking to collaborate on **Progressive Web Application Ideas and implementation**
+- 👯 I’m looking to Collaborate to gain insights on **1)Technologies as Means of Metric Monitoring,
+                                                       2)Application end-to-end Monitoring**
 
-- 🤝 I’m looking for help with **Backend Web Development**
+- 🤝 I’m looking for help with **Professionalising in Devops**
 
-- 💬 Ask me about **Javascript,Css ,Html,Python**
+- 💬 Ask me about **1)Application monitoring with Dynatrace
+                     2)Problem/Root Cause Analaysis with APM Tools
+                      3)Adapting application/software monitoringusing APM Tools**
 
 - 📫 How to reach me **zahidmohd.dev@gmail.com**
 
