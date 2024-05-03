@@ -1,7 +1,7 @@
-### Hi there 👋 "Its a mee"  MOHD ZAHID
+### Hi there 👋 "Its a mee"  MOHD ZAHID 🏎
 
 
-<h3 align="center">Confused Nerd in Tech</h3>
+<h3 align="center">Confused Nerd in Tech 🤓 </h3>
 
 
 - 🌱 I’m currently adapting into Knowledge and Experience base of **Application Performance Monitoring as a Pathway to Devops**
